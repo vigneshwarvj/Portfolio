@@ -7,7 +7,7 @@ Welcome to my portfolio repository! This repository showcases my work and projec
 
 You can reach out to me through the following channels:
 
-- **Email:** [Drop a mail](vigneshwar.vijayakumar@fssa.freshworks.com)
+- **Email:** [Drop a mail](vigneshwarjosephite@gmail.com)
 - **LinkedIn:** [Click Here](https://in.linkedin.com/in/vigneshwar-vijayakumar-58583724b)
 - **Twitter:** [Click Here](https://twitter.com/iamvigneshoffi)
 - **Portfolio Website:** [Click Here](https://vv-portfolio.netlify.app/)
